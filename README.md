@@ -2,7 +2,7 @@
 
 Kalkulator bertema anime Bleach, dibuat pakai HTML, CSS, dan JavaScript.
 
-🔗 **Coba di sini:** https://muqorobin298-lab.github.io/Kalkulator-Bleach/
+🔗 **Coba di sini:** https://muqorobin298-lab.github.io/Kalkulator-bleach-/
 
 ## Fitur
 - Tambah, kurang, kali, bagi, dan sisa bagi (%)
